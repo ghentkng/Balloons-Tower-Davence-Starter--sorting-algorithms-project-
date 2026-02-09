@@ -1,3 +1,5 @@
+//Fairly self explanatory class
+
 import java.util.List;
 
 @FunctionalInterface
